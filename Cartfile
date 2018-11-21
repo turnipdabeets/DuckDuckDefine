@@ -1,0 +1,3 @@
+git "https://github.com/turnipdabeets/react-native-gesture-handler" 
+github "Alamofire/AlamofireImage" ~> 3.2
+github "Alamofire/Alamofire" ~> 4.5.0
